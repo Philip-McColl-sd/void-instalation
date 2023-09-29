@@ -6,7 +6,7 @@
 
 ## Solución a problema de audio
 
-## Bloettoth
+## Bluetooth
 
 Seguir proceso de instalación del video (https://www.youtube.com/watch?v=_TbHmt6Uq6M) y apoyarse con el manual de void (https://docs.voidlinux.org/config/bluetooth.html)
 
